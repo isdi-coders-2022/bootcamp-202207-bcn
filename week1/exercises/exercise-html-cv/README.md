@@ -1,4 +1,4 @@
-## Ejercicio CV
+## Ejercicio CV (w1exCV)
 
 1. Crear un archivo HTML con vuestro CV, siguiendo estas directrices:
 
