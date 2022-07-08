@@ -23,3 +23,5 @@
 [Challenge 3: Maquetación Pets](/week1/challenges/challenge3/)
 
 [Challenge 4: Maquetación Lista de la compra](/week1/challenges/challenge4/)
+
+[Challenge 5: Travelulu](/week1/challenges/challenge-weekend/)
