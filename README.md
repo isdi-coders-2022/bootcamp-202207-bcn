@@ -14,6 +14,8 @@
 
 [Exercise 7: npm](/week1/exercises/exercise-npm)
 
+[Exercise 8: SASS Cards](/week1/exercises/exercise-sass-cards)
+
 [Challenge 1: Git & GitHub](/week1/challenges/challenge1/)
 
 [Challenge 2: Nuestra web](/week1/challenges/challenge2/)
