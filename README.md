@@ -25,3 +25,7 @@
 [Challenge 4: Maquetación Lista de la compra](/week1/challenges/challenge4/)
 
 [Challenge 5: Travelulu](/week1/challenges/challenge-weekend/)
+
+## Week 2
+
+[Exercise 1: CSS Bands](/week2/exercises/exercise-css-bands)
