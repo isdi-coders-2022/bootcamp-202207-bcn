@@ -29,3 +29,5 @@
 ## Week 2
 
 [Exercise 1: CSS Bands](/week2/exercises/exercise-css-bands)
+
+[Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
