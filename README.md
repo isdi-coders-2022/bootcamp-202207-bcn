@@ -33,3 +33,5 @@
 [Exercise 2: Case convert](/week2/exercises/exercise-case-convert)
 
 [Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
+
+[Challenge 2: strictEquals](/week2/challenges/challenge2/)
