@@ -30,4 +30,6 @@
 
 [Exercise 1: CSS Bands](/week2/exercises/exercise-css-bands)
 
+[Exercise 2: Case convert](/week2/exercises/exercise-case-convert)
+
 [Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
