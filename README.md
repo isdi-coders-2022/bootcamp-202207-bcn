@@ -35,3 +35,5 @@
 [Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
 
 [Challenge 2: strictEquals](/week2/challenges/challenge2/)
+
+[Challenge 3: Precurso](/week2/challenges/challenge3/)
