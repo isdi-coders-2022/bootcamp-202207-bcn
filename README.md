@@ -32,7 +32,7 @@
 
 [Exercise 2: Case convert](/week2/exercises/exercise-case-convert)
 
-[Exercise 3: GOT](/week2/exercises/exercise-css-bands)
+[Exercise 3: GOT](/week2/exercises/exercise-got)
 
 [Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
 
