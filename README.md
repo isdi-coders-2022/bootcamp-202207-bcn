@@ -39,3 +39,5 @@
 [Challenge 2: strictEquals](/week2/challenges/challenge2/)
 
 [Challenge 3: Precurso](/week2/challenges/challenge3/)
+
+[Challenge 4: Array methods](/week2/challenges/challenge4/)
