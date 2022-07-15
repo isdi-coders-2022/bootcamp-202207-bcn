@@ -11,7 +11,7 @@ Implementa, por parejas, una clase SkylabArray que simule el comportamiento de u
 - filter
 - map
 
-No se pueden usar arrays (con una sola excepción en un solo lugar).
+No se pueden usar arrays (sólo se pueden usar para una cosa).
 
 Testea los métodos.
 

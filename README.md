@@ -34,6 +34,8 @@
 
 [Exercise 3: GOT](/week2/exercises/exercise-got)
 
+[Exercise 4: Palindrome](/week2/exercises/exercise-palindrome)
+
 [Challenge 1: HTML + CSS Components](/week2/challenges/challenge1/)
 
 [Challenge 2: strictEquals](/week2/challenges/challenge2/)
