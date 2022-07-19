@@ -17,7 +17,7 @@ Crea un index.js y declara una variable que almacene este array:
         patient: {
             name: 'Marta',
             age: 56,
-            sexo: 'W'
+            sex: 'W'
         },
         daysInHospital: 5,
         diet: 'Diabetes'
@@ -26,7 +26,7 @@ Crea un index.js y declara una variable que almacene este array:
         patient: {
             name: 'Julia',
             age: 38,
-            sexo: 'W'
+            sex: 'W'
         },
         daysInHospital: 1,
         diet: 'Salt free'
@@ -35,7 +35,7 @@ Crea un index.js y declara una variable que almacene este array:
         patient: {
             name: 'Esteban',
             age: 40,
-            sexo: 'M'
+            sex: 'M'
         },
         daysInHospital: 3,
         diet: 'Diabetes'
@@ -44,7 +44,7 @@ Crea un index.js y declara una variable que almacene este array:
         patient: {
             name: 'Arturo',
             age: 17,
-            sexo: 'M'
+            sex: 'M'
         },
         daysInHospital: 2,
         diet: 'Low fiber'
@@ -53,7 +53,7 @@ Crea un index.js y declara una variable que almacene este array:
         patient: {
             name: 'Isabel',
             age: 63,
-            sexo: 'W'
+            sex: 'W'
         },
         daysInHospital: 6,
         diet: 'Salt free'
